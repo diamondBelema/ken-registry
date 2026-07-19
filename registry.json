@@ -7,8 +7,29 @@
       "version": "1.0.0",
       "author": "Diamond Belema",
       "description": "DNA structure, RNA types, nucleotide metabolism",
-      "tags": ["biochemistry", "nucleic-acid", "dna", "rna", "medical"],
+      "tags": [
+        "biochemistry",
+        "nucleic-acid",
+        "dna",
+        "rna",
+        "medical"
+      ],
       "repository": "https://github.com/diamond/ken-subjects",
+      "stars": 0,
+      "downloads": 0
+    },
+    {
+      "id": "diamondBelema/anatomy",
+      "name": "Anatomy",
+      "version": "1.0.1",
+      "author": "diamondBelema",
+      "description": "Human anatomy: thorax, abdomen, pelvis and perineum",
+      "tags": [
+        "anatomy",
+        "medical",
+        "mbbs"
+      ],
+      "repository": "https://github.com/diamondBelema/ken-subjects",
       "stars": 0,
       "downloads": 0
     }
