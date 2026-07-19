@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "packages": [
+    {
+      "id": "diamond/nucleic-acid",
+      "name": "Nucleic Acid Biochemistry",
+      "version": "1.0.0",
+      "author": "Diamond Belema",
+      "description": "DNA structure, RNA types, nucleotide metabolism",
+      "tags": ["biochemistry", "nucleic-acid", "dna", "rna", "medical"],
+      "repository": "https://github.com/diamond/nucleic-acid",
+      "stars": 0,
+      "downloads": 0
+    }
+  ]
+}
