@@ -58,10 +58,16 @@
     {
       "id": "diamondBelema/bioenergetics",
       "name": "Bioenergetics",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "diamondBelema",
-      "description": "",
-      "tags": [],
+      "description": "Bioenergetics: ATP, ETC, oxidative phosphorylation, enzymes, TCA cycle, metabolic integration",
+      "tags": [
+        "biochemistry",
+        "bioenergetics",
+        "enzymes",
+        "etc",
+        "atp"
+      ],
       "repository": "https://github.com/diamondBelema/bioenergetics",
       "stars": 0,
       "downloads": 0
