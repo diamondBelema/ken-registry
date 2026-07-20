@@ -54,6 +54,17 @@
       "repository": "https://github.com/diamondBelema/ken-subjects",
       "stars": 0,
       "downloads": 0
+    },
+    {
+      "id": "diamondBelema/bioenergetics",
+      "name": "Bioenergetics",
+      "version": "1.0.0",
+      "author": "diamondBelema",
+      "description": "",
+      "tags": [],
+      "repository": "https://github.com/diamondBelema/bioenergetics",
+      "stars": 0,
+      "downloads": 0
     }
   ]
 }
